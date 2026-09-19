@@ -1,6 +1,6 @@
 26.09.;Datenerhebung Robin;;;;;;;;;;
 id;name;type;oscar;oscar nom.;imdb-rating;year;genre;studio;sex;nationality;birthyear
-thshre100;The Shawshank Redemption;;no;yes;9,3;1994;Drama;Caste Rock Entertainment;99;99;99
+thshre100;The Shawshank Redemption;film;no;yes;9,3;1994;Drama;Caste Rock Entertainment;99;99;99
 frda200;Frank Darabont;director;99;99;;99;99;99;m;USA;1959
 thne300;Thomas Newman;composer;99;99;;99;99;99;m;USA;1955
 thgo100;The Godfather;film;no;yes;9,2;1972;Drama;Paramount Pictures;99;99;99
@@ -60,7 +60,7 @@ fuha300;Fumio Hayasaka;composer;99;99;99;99;99;99;m;Japan;1914
 thgrmi100;The Green Mile;film;no;no;8,6;1999;Crime;Castle Rock Entertainment;99;99;99
 ciofgo100;City of God;film;no;no;8,6;2002;Crime;O2 Filmes;99;99;99
 feme200;Fernando Meirelles;director;99;99;99;99;99;99;m;Brazil;1955
-kalu200;Kátia Lund;director;99;99;99;99;99;99;w;Brazil;1966
+kalu200;KÃ¡tia Lund;director;99;99;99;99;99;99;w;Brazil;1966
 anpi300;Antonio Pinto;composer;99;99;99;99;99;99;m;Brazil;1967
 liisbe100;Life Is Beautiful;film;yes;yes;8,6;1997;Drama;Melampo Cinematografica;99;99;99
 robe200;Roberto Benigni;director;99;99;99;99;99;99;m;Italy;1952
@@ -106,9 +106,9 @@ daju300;David Julyan;composer;99;99;99;99;99;99;m;UK;1967
 amhix100;American History X;film;no;no;8,5;1998;Drama;New Line Cinema;99;99;99
 toka200;Tony Kaye;director;99;99;99;99;99;99;m;UK;1952
 andu300;Anne Dudley;composer;99;99;99;99;99;99;m;UK;1956
-lon100;Léon;film;no;no;8,5;1994;Crime;Gaumont;99;99;99
+lon100;LÃ©on;film;no;no;8,5;1994;Crime;Gaumont;99;99;99
 lube200;Luc Besson;director;99;99;99;99;99;99;m;France;1959
-erse300;Éric Serra;composer;99;99;99;99;99;99;m;France;1959
+erse300;Ã‰ric Serra;composer;99;99;99;99;99;99;m;France;1959
 spmaacthspve100;Spider-Man: Across the Spider-Verse;film;no;no;8,5;2023;Animation;Sony Pictures Animation;99;99;99
 jodosa200;Joaquim Dos Santos;director;99;99;99;99;99;99;m;USA;1977
 kepo200;Kemp Powers;director;99;99;99;99;99;99;m;USA;1973
@@ -121,7 +121,7 @@ micu200;Michael Curtiz;director;99;99;99;99;99;99;m;Hungary;1886
 mast300;Max Steiner;composer;99;99;99;99;99;99;m;Austria;1888
 thin100;The Intouchables;film;no;no;8,5;2011;Tragicomedy;Quad Productions;99;99;99
 olna200;Olivier Nakache;director;99;99;99;99;99;99;m;France;1973
-erto200;Éric Toledano;director;99;99;99;99;99;99;m;France;1971
+erto200;Ã‰ric Toledano;director;99;99;99;99;99;99;m;France;1971
 luei300;Ludovico Einaudi;composer;99;99;99;99;99;99;m;Italy;1955
 thussu100;The Usual Suspects;film;no;no;8,5;1995;Crime;PolyGram Filmed Entertainment;99;99;99
 brsi200;Bryan Singer;director;99;99;99;99;99;99;m;USA;1965
@@ -146,7 +146,7 @@ dupatw100;Dune: Part Two;film;yes;yes;8,4;2024;Adventure;Legendary Pictures;99;9
 devi200;Denis Villeneuve;director;99;99;99;99;99;99;m;Canada;1967
 raofthloar100;Raiders of the Lost Ark;film;yes;yes;8,3;1981;Adventure;Lucasfilm;99;99;99
 thod100;The Odyssey;film;no;no;8,5;2026;Adventure;Syncopy;99;99;99
-lugo300;Ludwig Göransson;composer;99;99;99;99;99;99;m;Sweden;1984
+lugo300;Ludwig GÃ¶ransson;composer;99;99;99;99;99;99;m;Sweden;1984
 spmainthspve100;Spider-Man: Into the Spider-Verse;film;no;no;8,4;2018;Animation;Sony Pictures Animation;99;99;99
 bope200;Bob Persichetti;director;99;99;99;99;99;99;m;USA;1973
 phlo200;Phil Lord;director;99;99;99;99;99;99;m;USA;1975
@@ -213,7 +213,7 @@ nahebr300;Nacio Herb Brown;composer;99;99;99;99;99;99;m;USA;1896
 onupatiinam100;Once Upon a Time in America;film;no;no;8,4;1984;Crime;The Ladd Company;99;99;99
 jo100;Joker;film;yes;yes;8,2;2019;Crime;Warner Bros.;99;99;99
 toph200;Todd Phillips;director;99;99;99;99;99;99;m;USA;1970
-higu300;Hildur Guðnadóttir;composer;99;99;99;99;99;99;w;Iceland;1982
+higu300;Hildur GuÃ°nadÃ³ttir;composer;99;99;99;99;99;99;w;Iceland;1982
 tost3100;Toy Story 3;film;no;no;8,3;2010;Animation;Pixar Animation Studios;99;99;99
 stwaepvireof100;Star Wars: Episode VI - Return of the Jedi;film;no;yes;8,3;1983;Science-Fiction;Lucasfilm;99;99;99
 rima200;Richard Marquand;director;99;99;99;99;99;99;m;UK;1937
@@ -229,7 +229,7 @@ thvi200;Thomas Vinterberg;director;99;99;99;99;99;99;m;Denmark;1969
 nieg300;Nikolaj Egelund;composer;99;99;99;99;99;99;m;Denmark;1968
 in3100;Incendies;film;no;no;8,3;2010;Drama;Micro_scope;99;99;99
 devi200;Denis Villeneuve;director;99;99;99;99;99;99;m                   ;Canada          ;1967
-grhe300;Grégoire Hetzel;composer;99;99;99;99;99;99;m;France;1972
+grhe300;GrÃ©goire Hetzel;composer;99;99;99;99;99;99;m;France;1972
 etsuofthspmi100;Eternal Sunshine of the Spotless Mind;film;no;no;8,3;2004;Drama;Focus Features;99;99;99
 migo200;Michel Gondry;director;99;99;99;99;99;99;m;France;1963
 jobr300;Jon Brion;composer;99;99;99;99;99;99;m;USA;1963
@@ -246,11 +246,11 @@ brdepa200;Brian De Palma;director;99;99;99;99;99;99;m;USA;1940
 gimo300;Giorgio Moroder;composer;99;99;99;99;99;99;m;Italy;1940
 redo100;Reservoir Dogs;film;no;no;8,3;1992;Crime;Live Entertainment;99;99;99
 20aspod100;2001: A Space Odyssey;film;no;no;8,3;1968;Science-Fiction;Metro-Goldwyn-Mayer;99;99;99
-gyli300;György Ligeti;composer;99;99;99;99;99;99;m;Hungary;1923
+gyli300;GyÃ¶rgy Ligeti;composer;99;99;99;99;99;99;m;Hungary;1923
 up100;Up;film;no;no;8,3;2009;Animation;Pixar Animation Studios;99;99;99
 pedo200;Pete Docter;director;99;99;99;99;99;99;m;USA;1968
 doin100;Double Indemnity;film;no;no;8,3;1944;Crime;Paramount Pictures;99;99;99
-miro300;Miklós Rózsa;composer;99;99;99;99;99;99;m;Hungary;1907
+miro300;MiklÃ³s RÃ³zsa;composer;99;99;99;99;99;99;m;Hungary;1907
 listonea100;Like Stars on Earth;film;no;no;8,3;2007;Drama;Aamir Khan Productions;99;99;99
 aakh200;Aamir Khan;director;99;99;99;99;99;99;m;India;1965
 shma300;Shankar Mahadevan;composer;99;99;99;99;99;99;m;India;1967
@@ -265,7 +265,7 @@ gohu300;Gottfried Huppertz;composer;99;99;99;99;99;99;m;Germany;1887
 ase100;A Separation;film;no;no;8,3;2011;Drama;Asghar Farhadi Productions;99;99;99
 asfa200;Asghar Farhadi;director;99;99;99;99;99;99;m;Iran;1972
 saor300;Sattar Oraki;composer;99;99;99;99;99;99;m;Iran;1969
-amli100;Amélie;film;no;no;8,3;2001;Comedy;Claudie Ossard Productions;99;99;99
+amli100;AmÃ©lie;film;no;no;8,3;2001;Comedy;Claudie Ossard Productions;99;99;99
 jepije200;Jean-Pierre Jeunet;director;99;99;99;99;99;99;m;France;1953
 yati300;Yann Tiersen;composer;99;99;99;99;99;99;m;France;1970
 cika100;Citizen Kane;film;no;no;8,3;1941;Drama;RKO Radio Pictures;99;99;99
@@ -321,7 +321,7 @@ ergo300;Ernest Gold;composer;99;99;99;99;99;99;m;Austria;1921
 op100;Oppenheimer;film;yes;yes;8,2;2023;Biography;Syncopy;99;99;99
 babe100;Batman Begins;film;no;yes;8,2;2005;Action;Warner Bros.;99;99;99
 jupa100;Jurassic Park;film;no;no;8,2;1993;Adventure;Universal Pictures;99;99;99
-foafedomo100;For a Few Dollars More;film;no;no;8,2;1965;Western;United Artists – internationaler Verleih;99;99;99
+foafedomo100;For a Few Dollars More;film;no;no;8,2;1965;Western;United Artists Â– internationaler Verleih;99;99;99
 ha2100;Hamilton;film;no;no;8,2;2020;Biography;Walt Disney Pictures;99;99;99
 thka200;Thomas Kail;director;99;99;99;99;99;99;m;USA;1978
 limami300;Lin-Manuel Miranda;composer;99;99;99;99;99;99;m;USA;1980
@@ -348,11 +348,11 @@ joco200;Joel Coen;director;99;99;99;99;99;99;m;USA;1954
 cabu300;Carter Burwell;composer;99;99;99;99;99;99;m;USA;1954
 prhama100;Project Hail Mary;film;no;no;8,2;2026;Drama;Amazon MGM Studios;99;99;99
 pr100;Prisoners;film;no;no;8,2;2013;Crime;Warner Bros.;99;99;99
-jojo300;Jóhann Jóhannsson;composer;99;99;99;99;99;99;m;Iceland;1969
+jojo300;JÃ³hann JÃ³hannsson;composer;99;99;99;99;99;99;m;Iceland;1969
 toguma100;Top Gun: Maverick;film;no;no;8,2;2022;Action;Paramount Pictures;99;99;99
 hafa300;Harold Faltermeyer;composer;no;no;99;99;99;99;m;Germany;1952
-kibivo1100;Kill Bill – Volume 1;film;no;no;8,2;2003;Action;Miramax;99;99;99
-pasla100;Pan's Labyrinth;film;no;no;8,2;2006;Fantasy;Warner Bros. – internationaler Verleih;99;99;99
+kibivo1100;Kill Bill Â– Volume 1;film;no;no;8,2;2003;Action;Miramax;99;99;99
+pasla100;Pan's Labyrinth;film;no;no;8,2;2006;Fantasy;Warner Bros. Â– internationaler Verleih;99;99;99
 gudeto200;Guillermo del Toro;director;99;99;99;99;99;99;m;Mexico;1964
 jana300;Javier Navarrete;composer;99;99;99;99;99;99;m;Spain;1956
 un100;Unforgiven;film;no;no;8,2;1992;Drama;Warner Bros.;99;99;99
@@ -383,7 +383,7 @@ tegi200;Terry Gilliam;director;99;99;99;99;99;99;m;UK;1940
 nein300;Neil Innes;composer;99;99;99;99;99;99;m;UK;1944
 dimfomu100;Dial M for Murder;film;no;no;8,2;1954;Crime;Warner Bros.;99;99;99
 thseinthey100;The Secret in Their Eyes;film;no;no;8,2;2009;Drama;100 Bares;99;99;99
-jujoca200;Juan José Campanella;director;99;99;99;99;99;99;m;Argentina;1959
+jujoca200;Juan JosÃ© Campanella;director;99;99;99;99;99;99;m;Argentina;1959
 feju300;Federico Jusid;composer;99;99;99;99;99;99;m;Argentina;1973
 gowithwi100;Gone with the Wind;film;no;no;8,2;1939;Drama;Selznick International Pictures;99;99;99
 vifl200;Victor Fleming;director;99;99;99;99;99;99;m;USA;1889
@@ -413,7 +413,7 @@ lero300;Leonard Rosenman;composer;99;99;99;99;99;99;m;USA;1924
 behu100;Ben-Hur;film;no;yes;8,1;1959;Action;Metro-Goldwyn-Mayer;99;99;99
 wiwy200;William Wyler;director;99;99;99;99;99;99;m;Germany;1902
 wa100;Warrior;film;no;no;8,1;2011;Action;Lionsgate;99;99;99
-gaoco200;Gavin O’Connor;director;99;99;99;99;99;99;m;USA;1963
+gaoco200;Gavin OÂ’Connor;director;99;99;99;99;99;99;m;USA;1963
 mais300;Mark Isham;composer;99;99;99;99;99;99;m;USA;1951
 fa100;Fargo;film;no;no;8,1;1996;Crime;Gramercy Pictures;99;99;99
 hari100;Hacksaw Ridge;film;no;no;8,1;2016;Biography;Cross Creek Pictures;99;99;99
@@ -463,7 +463,7 @@ inthnaofthfa100;In the Name of the Father;film;no;no;8,1;1993;Biography;Universa
 jish200;Jim Sheridan;director;99;99;99;99;99;99;m;Ireland;1949
 trjo300;Trevor Jones;composer;99;99;99;99;99;99;m;South Africa;1949
 wita100;Wild Tales;film;no;no;8,1;2014;Comedy;El Deseo;99;99;99
-dasz200;Damián Szifron;director;99;99;99;99;99;99;m;Argentina;1975
+dasz200;DamiÃ¡n Szifron;director;99;99;99;99;99;99;m;Argentina;1975
 gusa300;Gustavo Santaolalla;composer;99;99;99;99;99;99;m;Argentina;1951
 thgoru100;The Gold Rush;film;no;no;8,1;1925;Comedy;United Artists;99;99;99
 shjr100;Sherlock Jr.;film;no;no;8,1;1924;Action;Metro Pictures;99;99;99
@@ -525,7 +525,7 @@ thbile100;The Big Lebowski;film;no;no;8,1;1998;Comedy;PolyGram Filmed Entertainm
 besu2100;Before Sunset;film;no;no;8,1;2004;Drama;Warner Independent Pictures;99;99;99
 thin2100;The Incredibles;film;no;no;8;2004;Animation;Pixar Animation Studios;99;99;99
 haadosta100;Hachi: A Dog's Tale;film;no;no;8;2009;Drama;Inferno Entertainment;99;99;99
-laha200;Lasse Hallström;director;99;99;99;99;99;99;m;Sweden;1946
+laha200;Lasse HallstrÃ¶m;director;99;99;99;99;99;99;m;Sweden;1946
 jaap300;Jan A.P. Kaczmarek;composer;99;99;99;99;99;99;m;99;99
 ro2100;Room;film;no;no;8;2015;Drama;Element Pictures;99;Poland;1953
 leab200;Lenny Abrahamson;director;99;99;99;99;99;99;m;Ireland;1966
@@ -548,8 +548,8 @@ hest300;Herbert Stothart;composer;99;99;99;99;99;99;m;USA;1885
 thbaofal100;The Battle of Algiers;film;yes;yes;8,1;1966;Drama;Igor Film;99;99;99
 gipo200;Gillo Pontecorvo;director;99;99;99;99;99;99;m;Italy;1919
 myfaanmyso100;My Father and My Son;film;no;no;8,1;2005;Drama;Av?ar Film;99;99;99
-caanir200;Ça?an Irmak;director;99;99;99;99;99;99;m;Turkey;1970
-thpaofjoofar100;The Passion of Joan of Arc;film;no;no;8,1;1928;Biography;Société Générale de Films;99;99;99
+caanir200;Ã‡a?an Irmak;director;99;99;99;99;99;99;m;Turkey;1970
+thpaofjoofar100;The Passion of Joan of Arc;film;no;no;8,1;1928;Biography;SociÃ©tÃ© GÃ©nÃ©rale de Films;99;99;99
 cathdr200;Carl Theodor Dreyer;director;99;99;99;99;99;99;m;Denmark;1889
 riei300;Richard Einhorn;composer;99;99;99;99;99;99;m;USA;1952
 thha100;The Handmaiden;film;no;no;8,1;2016;Drama;CJ Entertainment;99;99;99
