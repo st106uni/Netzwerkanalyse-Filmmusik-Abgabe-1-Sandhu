@@ -15,7 +15,7 @@ id,"erste zwei Buchstaben des Namens und dann nach Kategorie: 100= film, 200=dir
 name,"Name des Knotens, alle Namen ausschreiben"
 sex,"m steht für male, f für female, d für diverse"
 oscar,gewonnene Oscars: yes oder no
-oscar nom.,nominiert yes oder no
+oscar.nom.,nominiert yes oder no
 type,"Definiert den Typ des Knotens: ""film"", ""director"" oder ""composer"""
 genre,"als Texteintrag eintragen zb ""Thriller"", ""Horror"", ""Drama"" etc. (Sind bei imcb mehrere Genres zugeordnet zählt nur das erstgenannte)"
 99,"definiert fehlende Werte, bei der Datenerhebung, zB bei sex oder birthyear eines Films einfach 99 in die Spalte schreiben"
