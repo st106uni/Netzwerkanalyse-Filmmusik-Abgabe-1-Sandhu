@@ -771,3 +771,13 @@ an100,dage300,1,2018
 an100,raf300,1,2018
 srra200,dage300,2,2018
 srra200,raf300,2,2018
+atontithlaat100,ryai200,1,2024
+atontithlaat100,yuha200,1,2024
+atontithlaat100,toig200,1,2024
+atontithlaat100,hisa300,1,2024
+ryai200,yuha200,2,2024
+ryai200,toig200,2,2024
+ryai200,hisa300,2,2024
+yuha200,toig200,2,2024
+yuha200,hisa300,2,2024
+toig200,hisa300,2,2024
