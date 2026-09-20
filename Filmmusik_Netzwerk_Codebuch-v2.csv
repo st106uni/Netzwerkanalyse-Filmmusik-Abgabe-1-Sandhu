@@ -22,7 +22,7 @@ genre,"als Texteintrag eintragen zb ""Thriller"", ""Horror"", ""Drama"" etc. (Si
 studio,"als Texteintrag eintragen je nach Name des Produktionsstudios hinter dem Film ""20th Century Fox"", ""Universial"", ""Columbia"""
 birthyear,"Geburtsjahr von composer oder director ""1975"", ""1940"""
 nationality,"Nationalität von composer oder director ""USA"", ""Germany"", bei 2 Nationalitäten den Geburtstort nehmen"
-imdb-rating,"Rating von 1-10 Sternen, unterschiedliche Gewichtung der Stimmgaben"
+imdb.rating,"Rating von 1-10 Sternen, unterschiedliche Gewichtung der Stimmgaben"
 ,
 Sonderfälle,
 Spezielfall 1,"ein Film hat 2 composer, dann beide erheben, zwei Mal relationships 1 zu dem Film"
