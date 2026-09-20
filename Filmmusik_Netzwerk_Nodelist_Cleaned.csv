@@ -1,5 +1,5 @@
 id,name,type,oscar,oscar nom.,imdb-rating,year,genre,studio,sex,nationality,birthyear
-thshre100,The Shawshank Redemption,,no,yes,9.3,1994,Drama,Caste Rock Entertainment,99,99,99
+thshre100,The Shawshank Redemption,film,no,yes,9.3,1994,Drama,Caste Rock Entertainment,99,99,99
 frda200,Frank Darabont,director,99,99,,99,99,99,m,USA,1959
 thne300,Thomas Newman,composer,99,99,,99,99,99,m,USA,1955
 thgo100,The Godfather,film,no,yes,9.2,1972,Drama,Paramount Pictures,99,99,99
