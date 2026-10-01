@@ -108,7 +108,7 @@ andu300,Anne Dudley,composer,99,99,,99,99,99,m,UK,1956
 lon100,Leon,film,no,no,8.5,1994,Crime,Gaumont,99,99,99
 lube200,Luc Besson,director,99,99,,99,99,99,m,France,1959
 erse300,Eric Serra,composer,99,99,,99,99,99,m,France,1959
-spmaacthspve100,Spider-Man: Across the Spider-Verse,film,no,no,8.5,2023,Animation,Sony Pictures Animation,99,99,99
+spmaacthspve100,Spider-Man: Across the Spider-Verse,film,no,no,8.5,2023,Animation,Sony Pictures,99,99,99
 jodosa200,Joaquim Dos Santos,director,99,99,,99,99,99,m,USA,1977
 kepo200,Kemp Powers,director,99,99,,99,99,99,m,USA,1973
 jukth200,Justin K. Thompson,director,99,99,,99,99,99,m,USA,1978
@@ -146,7 +146,7 @@ devi200,Denis Villeneuve,director,99,99,,99,99,99,m,Canada,1967
 raofthloar100,Raiders of the Lost Ark,film,yes,yes,8.3,1981,Adventure,Lucasfilm Ltd.,99,99,99
 thod100,The Odyssey,film,no,no,8.5,2026,Adventure,Syncopy,99,99,99
 lugo300,Ludwig Goeransson,composer,99,99,,99,99,99,m,Sweden,1984
-spmainthspve100,Spider-Man: Into the Spider-Verse,film,no,no,8.4,2018,Animation,Sony Pictures Animation,99,99,99
+spmainthspve100,Spider-Man: Into the Spider-Verse,film,no,no,8.4,2018,Animation,Sony Pictures,99,99,99
 bope200,Bob Persichetti,director,99,99,,99,99,99,m,USA,1973
 phlo200,Phil Lord,director,99,99,,99,99,99,m,USA,1975
 chmi200,Christopher Miller,director,99,99,,99,99,99,m,USA,1975
@@ -319,15 +319,15 @@ op100,Oppenheimer,film,yes,yes,8.2,2023,Biography,Syncopy,99,99,99
 babe100,Batman Begins,film,no,yes,8.2,2005,Action,Warner Bros.,99,99,99
 jupa100,Jurassic Park,film,no,no,8.2,1993,Adventure,Universal Pictures,99,99,99
 foafedomo100,For a Few Dollars More,film,no,no,8.2,1965,Western,United Artists,99,99,99
-ha2100,Hamilton,film,no,no,8.2,2020,Biography,Walt Disney Pictures,99,99,99
+ha2100,Hamilton,film,no,no,8.2,2020,Biography,Walt Disney,99,99,99
 thka200,Thomas Kail,director,99,99,,99,99,99,m,USA,1978
 limami300,Lin-Manuel Miranda,composer,99,99,,99,99,99,m,USA,1980
 tadr100,Taxi Driver,film,no,no,8.2,1976,Drama,Columbia Pictures,99,99,99
 soliitho100,Some Like It Hot,film,no,no,8.2,1959,Comedy,United Artists,99,99,99
-thwibebl100,There Will Be Blood,film,no,no,8.2,2007,Drama,Paramount Vantage,99,99,99
+thwibebl100,There Will Be Blood,film,no,no,8.2,2007,Drama,Paramount Pictures,99,99,99
 pathan200,Paul Thomas Anderson,director,99,99,,99,99,99,m,USA,1970
 jogr300,Jonny Greenwood,composer,99,99,,99,99,99,m,UK,1971
-thfa100,The Father,film,no,no,8.2,2020,Drama,Sony Pictures Classics,99,99,99
+thfa100,The Father,film,no,no,8.2,2020,Drama,Sony Pictures,99,99,99
 flze200,Florian Zeller,director,99,99,,99,99,99,m,France,1979
 thki100,The Kid,film,no,no,8.2,1921,Comedy,First National,99,99,99
 alabev100,All About Eve,film,no,no,8.2,1950,Crime,20th Century Fox,99,99,99
@@ -339,7 +339,7 @@ ra100,Ran,film,no,no,8.2,1985,Action,Greenwich Film Productions,99,99,99
 ca3100,Casino,film,no,no,8.2,1995,Biography,Universal Pictures,99,99,99
 thth100,The Thing,film,no,no,8.2,1982,Science-Fiction,Universal Pictures,99,99,99
 joca200,John Carpenter,director,99,99,,99,99,99,m,USA,1948
-nocofoolme100,No Country for Old Men,film,no,no,8.2,2007,Crime,Paramount Vantage,99,99,99
+nocofoolme100,No Country for Old Men,film,no,no,8.2,2007,Crime,Paramount Pictures,99,99,99
 etco200,Ethan Coen,director,99,99,,99,99,99,m,USA,1957
 joco200,Joel Coen,director,99,99,,99,99,99,m,USA,1954
 cabu300,Carter Burwell,composer,99,99,,99,99,99,m,USA,1954
@@ -484,7 +484,7 @@ ro100,Rocky,film,no,no,8.1,1976,Sportfilm,United Artists,99,99,99
 lo100,Logan,film,no,no,8.1,2017,Action,20th Century Fox,99,99,99
 thge100,The General,film,no,no,8.1,1926,Comedy,Buster Keaton Productions,99,99,99
 clbr200,Clyde Bruckman,director,99,99,,99,99,99,m,USA,1894
-piofthcathcu100,Pirates of the Caribbean: The Curse of the Black Pearl,film,no,no,8.1,2003,Action,Walt Disney Pictures,99,99,99
+piofthcathcu100,Pirates of the Caribbean: The Curse of the Black Pearl,film,no,no,8.1,2003,Action,Walt Disney,99,99,99
 gove200,Gore Verbinski,director,99,99,,99,99,99,m,USA,1964
 klba300,Klaus Badelt,composer,99,99,,99,99,99,m,Germany,1967
 mrsmgotowa100,Mr. Smith Goes to Washington,film,no,no,8.1,1939,Drama,Columbia Pictures,99,99,99
