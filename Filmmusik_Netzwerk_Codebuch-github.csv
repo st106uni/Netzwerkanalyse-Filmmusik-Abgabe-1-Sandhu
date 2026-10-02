@@ -1,15 +1,27 @@
-CODEBUCH,
-"Im Codebuch definieren Sie, wie und nach welchen Kriterien die Daten erfasst werden.",
-Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
-Wert,Kommentar
-edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+# CODEBUCH Datensatz Filmmusik
+Stand: 2.10.26 (Blocktag 2)
+erstellt von: Sarah Tepel
+
+## Inhalt des Codebuchs
+- Ursprung und Datenerhebung
+- Edges.csv (Edgelist)
+- Nodes.csv (Nodelist)
+
+## Ursprung und Datenerhebung
+Die Daten wurden von der Gruppe Filmmusik im Sommer 2026 erhoben. Die Datenerhebung wurde im Oktober 2026 fertiggestellt.
+Das Netzwerk ist ein ungerichtetes multimode-mode Netzwerk mit Akteuren als Personen und Filmstudios.
+
+## Die EDGE-Attribute
+
 from,mit ID
 to ,zu ID
 relationship,"zwischen film und director oder composer = 1, zwischen composer und director = 2 (2 ist wichtiger für unsere Forschung) und zwischen studio und film= 3"
 year,"Erscheinungsjahr des Films, wie in der Nodelist"
 ,
 ,
-nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+## Die NODE-Attribute
+
+Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
 year,"Erscheinungsjahr des Films nach Zahl zB ""2001"""
 id,"erste zwei Buchstaben des Vor- und Nachnamens und dann nach Kategorie: 100= film, 200=director, 300=composer, 400=studio zB stsp200 für Steven Spielberg"
 name,"Name des Knotens, alle Namen ausschreiben"
