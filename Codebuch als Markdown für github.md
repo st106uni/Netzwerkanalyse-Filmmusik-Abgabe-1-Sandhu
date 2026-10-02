@@ -28,8 +28,8 @@ Die vier Knoten-Kategorien sind:
 
 Beispiel ID: stsp200 für Steven Spielberg
 
-**name\
-**Ausgeschriebener Name des Knotens, bei Personen Vor- und Nachname, bei Studios vollständiger Name usw.
+**name**\
+Ausgeschriebener Name des Knotens, bei Personen Vor- und Nachname, bei Studios vollständiger Name usw.
 
 **type**\
 Definiert den Typ des Knotens: es gibt die Typen film, director oder composer (werden auch durch die ID gekennzeichnet)
