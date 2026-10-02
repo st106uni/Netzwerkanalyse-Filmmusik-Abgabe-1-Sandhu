@@ -1,14 +1,3 @@
----
-title: "Codebuch Filmmusik"
-author: "Sarah Tepel (st106)"
-date: "2026-10-02"
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # CODEBUCH Datensatz Filmmusik
 Stand: 2.10.26 (Blocktag 2)
 Erstellt von: Sarah Tepel
@@ -79,8 +68,8 @@ Geburtsjahr von composer oder director zB.: 1975 oder 1940
 **99 oder auch NA**
 Definiert fehlende Werte bei der Datenerhebung, zB bei sex oder birthyear eines Films. 
 Leere Zellen in der Daten-Tabelle in github werden durch RStudio mit NA (not available) gelabelt.
-
-
+  
+  
 
 ## Die EDGE-Attribute
 
