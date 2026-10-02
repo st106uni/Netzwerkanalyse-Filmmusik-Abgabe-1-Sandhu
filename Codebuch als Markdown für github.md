@@ -1,6 +1,6 @@
 # CODEBUCH Datensatz Filmmusik
 
-Stand: 2.10.26 (Blocktag 2)
+Stand: 2.10.26 (Blocktag 2)\
 Erstellt von: Sarah Tepel
 
 ## Inhalt des Codebuchs
@@ -18,7 +18,7 @@ Die Daten wurden von der Gruppe Filmmusik im Sommer 2026 erhoben. Die Datenerheb
 **id**\
 Die ID ist die eindeutige Identifikation jedes Knotens. Die IDs der Nodelist stimmen komplett mit den IDs der Edgelist überein. Ids werden mithilfe der ersten zwei Buchstaben von Vor-und Nachnamen (oder Teilnamen) eines Knotens + mit der richtigen Typisierungskategorie erstellt.
 
-[Die vier Knoten-Kategorien sind:]{.underline}
+Die vier Knoten-Kategorien sind:
 
 100 = film
 
