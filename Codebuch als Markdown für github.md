@@ -66,7 +66,8 @@ Nationalität von composer oder director zB.: USA, Germany, bei 2 Nationalitäte
 Geburtsjahr von composer oder director zB.: 1975 oder 1940
 
 **99 oder auch NA**\
-Definiert fehlende Werte bei der Datenerhebung, zB bei sex oder birthyear eines Films. Leere Zellen in der Daten-Tabelle in github werden durch RStudio mit NA (not available) gelabelt.
+Definiert fehlende Werte bei der Datenerhebung, zB bei sex oder birthyear eines Films.\
+Leere Zellen in der Daten-Tabelle in github werden durch RStudio mit NA (not available) gelabelt.
 
 ## Die EDGE-Attribute
 
@@ -80,7 +81,10 @@ Verbindung von einem Knoten zu einem anderen.
 Verbindung von einem Knoten zu einem anderen.
 
 **relationship**\
-Es gibt verschiedene Beziehungsarten zwischen zwei Knoten, die relationship genannt werden. 1 = zwischen film und director oder composer 2 = zwischen composer und director 3 = zwischen studio und film
+Es gibt verschiedene Beziehungsarten zwischen zwei Knoten, die relationship genannt werden.\
+1 = zwischen film und director oder composer\
+2 = zwischen composer und director\
+3 = zwischen studio und film
 
 **year**\
 Erscheinungsjahr des Films, wie in der Nodelist.
